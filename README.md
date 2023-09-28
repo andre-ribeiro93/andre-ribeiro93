@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra me conhecer um pouco mais ou entrar em contato de uma olhada nas páginas abaixo!
+### Para me conhecer um pouco mais ou entrar em contato de uma olhada nas páginas abaixo!
  
 <div> 
   <a href = "mailto:af.cribeiro93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
